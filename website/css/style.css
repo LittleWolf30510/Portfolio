@@ -920,7 +920,7 @@
 		text-align: center;
 		top: 0;
 		width: 23em;
-		right: 0;
+		
 	}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
@@ -1013,13 +1013,6 @@
 				#header > nav ul li:first-child {
 					border-top: 0;
 				}
-
-/* Wrapper */
-
-	#wrapper {
-		background: #fff;
-		padding-right: 23em;
-	}
 
 /* Main */
 
