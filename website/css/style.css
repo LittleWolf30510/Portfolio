@@ -11,7 +11,7 @@
 /* Basic */
 
 	body {
-		background: #fff;
+		background: #ECE5CE;
 	}
 
 	body, input, select, textarea {
@@ -112,7 +112,7 @@
 		}
 
 	blockquote {
-		border-left: solid 8px #e4e4e4;
+		border-left: solid 8px #C5E0DC;
 		font-style: italic;
 		margin: 0 0 2.25em 0;
 		padding: 0.5em 0 0.5em 2em;
@@ -851,7 +851,7 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #5ed0b1;
+				background-color: #E08E75;
 			}
 
 			input[type="submit"].special:active,
@@ -878,7 +878,7 @@
 /* Features */
 
 	.features article {
-		border-top: solid 3px #f4f4f4;
+		border-top: solid 3px #F1D4AF;;
 		margin-bottom: 2.25em;
 		padding-top: 2.25em;
 	}
@@ -1013,20 +1013,24 @@
 				#header > nav ul li:first-child {
 					border-top: 0;
 				}
+				
 
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #f4f4f4;
+		border-top: solid 3px #F1D4AF;
 	}
 
 		#main > section > .container {
 			padding: 6em 0 4em 0;
+			
 		}
-
+		
 		#main > section:first-child {
 			border-top: 0;
 		}
+
+
 
 /* One */
 
